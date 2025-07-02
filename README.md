@@ -15,4 +15,5 @@ The goal is to identify trends in pricing, discounts, and customer feedback (rat
 The dataset used in this project originates from Amazon’s publicly available product and review data, and was provided through our incubator hub facilitators for educational and analytical purposes.
 
 ## Tools Used 
-The tool used for this analytical exercise is Microsoft Excel
+- Microsoft Excel for date cleaning, Analysis and visualization building.
+- GitHub for portfolio building.
