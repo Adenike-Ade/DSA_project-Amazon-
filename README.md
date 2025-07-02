@@ -75,3 +75,10 @@ Some Functions used during the process
 =LET(text, LEFT(B2, 40),clean, PROPER(TRIM(LEFT(text, FIND("@", SUBSTITUTE(text & " ", " ", "@", LEN(text) - LEN(SUBSTITUTE(text, " ", "")))) - 1))),lastWord, TRIM(RIGHT(SUBSTITUTE(clean, " ", REPT(" ", 100)) ,100)), IF(OR(lastWord="For", lastWord="To", lastWord="On", lastWord="In", lastWord="By", lastWord="Of", lastWord="And", lastWord="&"),LEFT(clean, LEN(clean) - LEN(lastWord)- 1),clean))
 - Main Category Column.
 =IFERROR (LEFT(D2, FIND("|", D2)-1),D2).
+
+## Insights drawn 
+---
+- The Electronics Category had the highest Reviews and Potential Revenue implying that it had the highest purchase and customer engagement 
+- Discount Increment and Rating were not directly proportional as some products were rated poorly despite having a higher discount, this implies that the rating was done in accordance to the product performance and customer satisfaction.
+- A total of 1,234 products were rated high having a rating between 3.9 to 5.0 as against the total product number of 1,465. This implies that a large number of product performed greatly (good quality and customer satisfaction).
+- Also, the analysis showed that the prices were not a problem to the customer but the needs of the customers, performance of the product and customers satisfaction, a clear example is seen between the bottom two categories (toys&games, and homeimprovement) and the too two categories (Electronics and Home&Kitchen) in terms of prices. The top two however had higher Potential Revenue and Reviews (customer engagement) compared to the bottom two despite the large difference in price.
