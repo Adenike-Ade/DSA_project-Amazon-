@@ -8,7 +8,7 @@ Amazon Product Review Analysis is a data analytics project focused on extracting
 
 This project is a detailed Exploratory Data Analysis on an Amazon Product Review dataset involving data collection and careful study, data cleaning and processing, exploration (analysis based on single variables, and relationship between two or multiple variables), and Visualizations. 
 
-The goal is to identify trends in pricing, discounts, and customer feedback (rating, rating counts) by products and category to support data-driven decision-making. Using Microsoft Excel, the project delivers key performance metrics and visualizations to highlight product performance and customer behavior.
+The goal is to identify trends in pricing, discounts, and customer feedback/engagements (rating, rating counts) by products and category to support data-driven decision-making. Using Microsoft Excel, the project delivers key performance metrics and visualizations to highlight product performance and customer behavior.
 
 ## Data Source
 ---
@@ -82,3 +82,22 @@ Some Functions used during the process
 - Discount Increment and Rating were not directly proportional as some products were rated poorly despite having a higher discount, this implies that the rating was done in accordance to the product performance and customer satisfaction.
 - A total of 1,234 products were rated high having a rating between 3.9 to 5.0 as against the total product number of 1,465. This implies that a large number of product performed greatly (good quality and customer satisfaction).
 - Also, the analysis showed that the prices were not a problem to the customer but the needs of the customers, performance of the product and customers satisfaction, a clear example is seen between the bottom two categories (toys&games, and homeimprovement) and the too two categories (Electronics and Home&Kitchen) in terms of prices. The top two however had higher Potential Revenue and Reviews (customer engagement) compared to the bottom two despite the large difference in price.
+
+## Recommendations
+---
+Below are some recommendations based in the insights drawn: 
+
+- Focus on High-Engagement Categories Prioritize Electronics, Home & Kitchen, and Computer Accessories for marketing and inventory decisions.
+
+- Refine Discount Strategy
+Avoid excessive discounting (>50%) where possible, as it may affect product perception and average ratings.
+
+- Increase Reviews for Low-Visibility Products
+Launch post-purchase review campaigns and highlight under-reviewed high-quality items.
+
+- Promote Top-Rated Products by Featuring the highest-rated items in ads, banners, or promotional emails to earn/drive trust and conversions.
+
+- Support Niche Categories
+Use niche-targeted campaigns to uplift low-performing categories like Toys & Games and Cars & Motorbikes (such as influencers).
+
+- Build Company-Customer relationship to gain customer loyalty and trust by sending feedbacks to customers based on their rating and reviews.
