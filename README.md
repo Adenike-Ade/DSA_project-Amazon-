@@ -35,6 +35,7 @@ The following steps were taken to clean and prepare the dataset for Analysis
 - Columns involving money were formatting and currency signs added (Actual price, Discounted price, price range, and Potential revenue).
 - Two rows under the rating Count Column were replaced with zeros (0) because they were blank and the actual figures ware not gotten (rows "284" and "326").
 - Row "1281" under the Rating Column had a sign "|" instead of a value, o had to replace with an imaginary value of "4.1".
+- The output of the Average Actual Price vs the Average Discount price was plotted on a column chart using Logarithmic values due to the large difference in numbers which made it difficult to see the price differences in some of the categories (with smaller prices) when plotted with the normal figures.
 
 ## Exploratory Data Analysis 
 ---
