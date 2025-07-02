@@ -15,5 +15,23 @@ The goal is to identify trends in pricing, discounts, and customer feedback (rat
 The dataset used in this project originates from Amazon’s publicly available product and review data, and was provided through our incubator hub facilitators for educational and analytical purposes.
 
 ## Tools Used 
+---
 - Microsoft Excel for date cleaning, Analysis and visualization building.
 - GitHub for portfolio building.
+
+## Cleaning and Preparation 
+---
+The following steps were taken to clean and prepare the dataset for Analysis 
+- Duplicate Check (No duplicate was found)
+- Seven New Columns were created namely:
+  1. New Product Name (using a combination of multiple excel functions involving LET,TEXT,LEFT,PROPER,TRIM,CLEAN,FIND,SUBSTITUTE,LEN,RIGHT, AND REPT to reduce the length of the product name)
+  2. Main Category (this was also done by using a combination of IFERROR, LEFT AND FIND functions).
+  3. Potential Revenue (Sum function).
+  4. Price Range (IF function)
+  5. Review Tier (< or > 1000 reviews( IF function)).
+  6. Discount >=50% (IF function).
+  7. Rating and Review together (SUM function).
+- Data type was checked and changed where necessary.
+- Columns involving money were formatting and currency signs added (Actual price, Discounted price, price range, and Potential revenue).
+- Two rows under the rating Count Column were replaced with zeros (0) because they were blank and the actual figures ware not gotten (rows "284" and "326").
+- Row "1281" under the Rating Column had a sign "|" instead of a value, o had to replace with an imaginary value of "4.1".
