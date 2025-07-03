@@ -95,12 +95,13 @@ Avoid excessive discounting (>50%) where possible, as it may affect product perc
 - Increase Reviews for Low-Visibility Products
 Launch post-purchase review campaigns and highlight under-reviewed high-quality items.
 
-## 
----
-
 - Promote Top-Rated Products by Featuring the highest-rated items in ads, banners, or promotional emails to earn/drive trust and conversions.
 
 - Support Niche Categories
 Use niche-targeted campaigns to uplift low-performing categories like Toys & Games and Cars & Motorbikes (such as influencers).
 
 - Build Company-Customer relationship to gain customer loyalty and trust by sending feedbacks to customers based on their rating and reviews.
+## 
+---
+- ![image](https://github.com/user-attachments/assets/826de7fe-a5c6-4c2f-9626-95f130067b95)
+
