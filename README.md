@@ -108,8 +108,17 @@ Use niche-targeted campaigns to uplift low-performing categories like Toys & Gam
 
 - Build Company-Customer relationship to gain customer loyalty and trust by sending feedbacks to customers based on their rating and reviews.
 
+## ABOUT ME
+---
+I'm Rachel Adenike Adebowale, a passionate Data Analyst with a background in Science Laboratory Technology (Chemistry). I’m skilled in tools like Microsoft Excel, Word, PowerPoint, Power BI, and SQL, and I enjoy uncovering insights from data to solve real-world problems.
 
+Beyond analytics, I'm also a Drama Minister Who loves God passionately with a strong drive to contribute meaningfully to the Oil and Gas sector through innovation, research, and data-driven solutions.
 
+I'm open to professional opportunities, collaborations, and faith-based engagements that align with my purpose and technical growth.
 
-
+### Contacts
+---
+Email: adenikke2004@gmail.com 
+Phone: 09014292606
+LinkedIn: 
 
